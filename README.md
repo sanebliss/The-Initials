@@ -1,4 +1,4 @@
 # The-Initials
-<font color = "blue"> Author- Prasann Kumar </font>
+<h1>Author- Prasann Kumar</h1>
 <hr/>
-<p><font face = "Courier New" color = "red"> This is my first repository where i will be adding some projects which i am working upon and some unexpected collabs.</font></p>
+<p> This is my first repository where i will be adding some projects which i am working upon and some unexpected collabs.</p>
